@@ -6,7 +6,6 @@ Hi there 👋
 I am a Computer Science Student, currently in a pre final year student
 
 - 🌱 I’m currently learning Data Structure, AI
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for creating a projects in python 
 
 
