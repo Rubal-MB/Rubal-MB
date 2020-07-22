@@ -1,9 +1,7 @@
 Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubal-mb" alt="rubal-mb" /> </p>
 
-**Rubal-MB/Rubal-MB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I am a Computer Science Student, currently in a pre final year student
+I am a Computer Science Student, currently in pre final year student at SSIPMT, Raipur
 
 - 🌱 I’m currently learning Data Structure, AI
 - 🤔 I’m looking for creating a projects in python 
