@@ -7,7 +7,7 @@ I am a Computer Science Student, currently in pre final year student at SSIPMT, 
 - 🤔 I’m looking for creating a projects in python 
 
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubal-agrawal/)](https://www.linkedin.com/in/raghav-byte/) , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:rubalagrawalru@gmail.com)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubal-agrawal/)](https://www.linkedin.com/in/rubal-agrawal/) , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rubalagrawalru@gmail.com.com)](mailto:rubalagrawalru@gmail.com)
 
 <!--
 **Rubal-MB/Rubal-MB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
