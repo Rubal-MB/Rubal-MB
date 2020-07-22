@@ -1,5 +1,5 @@
-#Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
+Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rubal-mb" alt="rubal-mb" /> </p>
 
 <!--
 **Rubal-MB/Rubal-MB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
