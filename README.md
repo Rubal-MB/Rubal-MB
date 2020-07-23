@@ -1,8 +1,6 @@
 Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubal-mb" alt="rubal-mb" /> </p>
 
-<!--(https://github.com/rubal-mb/rubal-mb/raw/master/intro.mp4) --!>
-
 I am a Computer Science Student, currently in pre final year student at SSIPMT, Raipur
 
 - 🌱 I’m currently learning Data Structure, AI
