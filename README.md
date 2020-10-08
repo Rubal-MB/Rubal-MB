@@ -15,7 +15,7 @@ I am a Computer Science Student, currently in pre final year student at SSIPMT, 
 
 <br>
 <p align="center" >
-<img alt= https://github-readme-stats.vercel.app/api?username=Rubal-MB&include_all_commits=true&count_private=true&show_owner=true&show_icons=true> </p>
+<img alt="Rubal's github stats" src="https://github-readme-stats.vercel.app/api?username=Rubal-MB&include_all_commits=true&count_private=true&show_owner=true&show_icons=true"  > </p></p>
 
 
 
