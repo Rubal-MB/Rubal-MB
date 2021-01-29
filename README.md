@@ -11,11 +11,6 @@ I am a Computer Science Student, currently in pre final year student at SSIPMT, 
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubal-agrawal/)](https://www.linkedin.com/in/rubal-agrawal/) , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rubalagrawalru@gmail.com.com)](mailto:rubalagrawalru@gmail.com)
 
-
-
-
-
-<br>
 <p align="center" >
 <img alt="Rubal's github stats" src="https://github-readme-stats.vercel.app/api?username=Rubal-MB&include_all_commits=true&count_private=true&show_owner=true&show_icons=true"  > </p></p>
 
